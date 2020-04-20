@@ -1,0 +1,770 @@
+array2[2]^=array[2]
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]+= 1
+array2[2]^=array[2]
+array2[0]=array1[0] 199
+array2[0]-= 0
+array1[0]=array2[0] 144
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[1] 387
+array2[0]-= 0
+array1[1]=array2[1] 332
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[2] 83
+array2[0]-= 0
+array1[2]=array2[2] 28
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[3] 295
+array2[0]-= 0
+array1[3]=array2[3] 240
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[4] 187
+array2[0]-= 0
+array1[4]=array2[4] 132
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[5] 115
+array2[0]-= 0
+array1[5]=array2[5] 60
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[6] 79
+array2[0]-= 0
+array1[6]=array2[6] 24
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[7] 119
+array2[0]-= 0
+array1[7]=array2[7] 64
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[8] 119
+array2[0]-= 0
+array1[8]=array2[8] 64
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[9] 295
+array2[0]-= 0
+array1[9]=array2[9] 240
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[10] 263
+array2[0]-= 0
+array1[10]=array2[10] 208
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[11] 143
+array2[0]-= 0
+array1[11]=array2[11] 88
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[12] 99
+array2[0]-= 0
+array1[12]=array2[12] 44
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[13] 63
+array2[0]-= 0
+array1[13]=array2[13] 8
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[14] 107
+array2[0]-= 0
+array1[14]=array2[14] 52
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[15] 295
+array2[0]-= 0
+array1[15]=array2[15] 240
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[16] 331
+array2[0]-= 0
+array1[16]=array2[16] 276
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[17] 295
+array2[0]-= 0
+array1[17]=array2[17] 240
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[18] 183
+array2[0]-= 0
+array1[18]=array2[18] 128
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[19] 99
+array2[0]-= 0
+array1[19]=array2[19] 44
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[20] 95
+array2[0]-= 0
+array1[20]=array2[20] 40
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[21] 107
+array2[0]-= 0
+array1[21]=array2[21] 52
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[22] 63
+array2[0]-= 0
+array1[22]=array2[22] 8
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[23] 295
+array2[0]-= 0
+array1[23]=array2[23] 240
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[24] 199
+array2[0]-= 0
+array1[24]=array2[24] 144
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[25] 123
+array2[0]-= 0
+array1[25]=array2[25] 68
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[26] 103
+array2[0]-= 0
+array1[26]=array2[26] 48
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[27] 135
+array2[0]-= 0
+array1[27]=array2[27] 80
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[28] 147
+array2[0]-= 0
+array1[28]=array2[28] 92
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[29] 99
+array2[0]-= 0
+array1[29]=array2[29] 44
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[30] 319
+array2[0]-= 0
+array1[30]=array2[30] 264
+array2[2]+= 1
+judge array2[2]==32
+array2[0]=array1[31] 295
+array2[0]-= 0
+array1[31]=array2[31] 240
+array2[2]+= 1
+judge array2[2]==32
+array2[0]^=array[0]
+array2[1]^=array[1]
+array2[2]^=array[2]
+array2[3]^=array[3]
+array2[6]^=array[6]
+array2[7]^=array[7]
+array2[0]=105
+array2[1]=110
+array2[2]=112
+array2[3]=117
+array2[6]=116
+array2[7]=32
+array2[0]=102
+array2[1]=108
+array2[2]=97
+array2[3]=103
+array2[6]=58
+array2[7]=32
+array2[1]^=array[1]
+input array2[0]= 'f'
+push array2[257] 102
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'l'
+push array2[258] 108
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'a'
+push array2[259] 97
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'g'
+push array2[260] 103
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '{'
+push array2[261] 123
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'G'
+push array2[262] 71
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '0'
+push array2[263] 48
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'd'
+push array2[264] 100
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '_'
+push array2[265] 95
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'B'
+push array2[266] 66
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'l'
+push array2[267] 108
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'e'
+push array2[268] 101
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 's'
+push array2[269] 115
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 's'
+push array2[270] 115
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '_'
+push array2[271] 95
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'W'
+push array2[272] 87
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'u'
+push array2[273] 117
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'h'
+push array2[274] 104
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'a'
+push array2[275] 97
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'n'
+push array2[276] 110
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '_'
+push array2[277] 95
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '&'
+push array2[278] 38
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '_'
+push array2[279] 95
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'C'
+push array2[280] 67
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'h'
+push array2[281] 104
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'i'
+push array2[282] 105
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'n'
+push array2[283] 110
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'a'
+push array2[284] 97
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '_'
+push array2[285] 95
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'G'
+push array2[286] 71
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'r'
+push array2[287] 114
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'o'
+push array2[288] 111
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'w'
+push array2[289] 119
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 't'
+push array2[290] 116
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= 'h'
+push array2[291] 104
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '!'
+push array2[292] 33
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '1'
+push array2[293] 49
+array2[1]+= 1
+judge array2[1]==38
+input array2[0]= '}'
+push array2[294] 125
+array2[1]+= 1
+judge array2[1]==38
+pop array2[0] 125
+judge array2[0]==125
+array2[8]=256
+judge array2[8]==225
+pop array2[0] 49
+array1[256]=array2[256] 49
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 33
+array1[255]=array2[255] 33
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 104
+array1[254]=array2[254] 104
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 116
+array1[253]=array2[253] 116
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 119
+array1[252]=array2[252] 119
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 111
+array1[251]=array2[251] 111
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 114
+array1[250]=array2[250] 114
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 71
+array1[249]=array2[249] 71
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 95
+array1[248]=array2[248] 95
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 97
+array1[247]=array2[247] 97
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 110
+array1[246]=array2[246] 110
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 105
+array1[245]=array2[245] 105
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 104
+array1[244]=array2[244] 104
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 67
+array1[243]=array2[243] 67
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 95
+array1[242]=array2[242] 95
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 38
+array1[241]=array2[241] 38
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 95
+array1[240]=array2[240] 95
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 110
+array1[239]=array2[239] 110
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 97
+array1[238]=array2[238] 97
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 104
+array1[237]=array2[237] 104
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 117
+array1[236]=array2[236] 117
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 87
+array1[235]=array2[235] 87
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 95
+array1[234]=array2[234] 95
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 115
+array1[233]=array2[233] 115
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 115
+array1[232]=array2[232] 115
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 101
+array1[231]=array2[231] 101
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 108
+array1[230]=array2[230] 108
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 66
+array1[229]=array2[229] 66
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 95
+array1[228]=array2[228] 95
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 100
+array1[227]=array2[227] 100
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 48
+array1[226]=array2[226] 48
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 71
+array1[225]=array2[225] 71
+array2[8]-= 8
+judge array2[8]==225
+pop array2[0] 123
+judge array2[0]==123
+pop array2[0] 103
+judge array2[0]==103
+pop array2[0] 97
+judge array2[0]==97
+pop array2[0] 108
+judge array2[0]==108
+pop array2[0] 102
+judge array2[0]==102
+array2[9]^=array[9]
+array2[10]=225
+array2[7]=array1[0] 144
+array2[6]=array1[225] 71
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[1] 332
+array2[6]=array1[226] 48
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[2] 28
+array2[6]=array1[227] 100
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[3] 240
+array2[6]=array1[228] 95
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[4] 132
+array2[6]=array1[229] 66
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[5] 60
+array2[6]=array1[230] 108
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[6] 24
+array2[6]=array1[231] 101
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[7] 64
+array2[6]=array1[232] 115
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[8] 64
+array2[6]=array1[233] 115
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[9] 240
+array2[6]=array1[234] 95
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[10] 208
+array2[6]=array1[235] 87
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[11] 88
+array2[6]=array1[236] 117
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[12] 44
+array2[6]=array1[237] 104
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[13] 8
+array2[6]=array1[238] 97
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[14] 52
+array2[6]=array1[239] 110
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[15] 240
+array2[6]=array1[240] 95
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[16] 276
+array2[6]=array1[241] 38
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[17] 240
+array2[6]=array1[242] 95
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[18] 128
+array2[6]=array1[243] 67
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[19] 44
+array2[6]=array1[244] 104
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[20] 40
+array2[6]=array1[245] 105
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[21] 52
+array2[6]=array1[246] 110
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[22] 8
+array2[6]=array1[247] 97
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[23] 240
+array2[6]=array1[248] 95
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[24] 144
+array2[6]=array1[249] 71
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[25] 68
+array2[6]=array1[250] 114
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[26] 48
+array2[6]=array1[251] 111
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[27] 80
+array2[6]=array1[252] 119
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[28] 92
+array2[6]=array1[253] 116
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[29] 44
+array2[6]=array1[254] 104
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[30] 264
+array2[6]=array1[255] 33
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[9]+= 1
+array2[10]+= 1
+judge array2[9]==32
+array2[7]=array1[31] 240
+array2[6]=array1[256] 49
+array2[6]^= 99
+array2[6]<<=2
+judge array2[6]==array[7]
+array2[0]=98
+array2[1]=121
+array2[2]=101
+array2[3]=126
+array2[6]=126
+array2[7]=126
+array2[0]=10
+#eof
